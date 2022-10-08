@@ -1,0 +1,14 @@
+D:\C#\Swap Two Numbers\Swap Two Numbers\bin\Debug\netcoreapp3.1\Swap Two Numbers.exe
+D:\C#\Swap Two Numbers\Swap Two Numbers\bin\Debug\netcoreapp3.1\Swap Two Numbers.deps.json
+D:\C#\Swap Two Numbers\Swap Two Numbers\bin\Debug\netcoreapp3.1\Swap Two Numbers.runtimeconfig.json
+D:\C#\Swap Two Numbers\Swap Two Numbers\bin\Debug\netcoreapp3.1\Swap Two Numbers.runtimeconfig.dev.json
+D:\C#\Swap Two Numbers\Swap Two Numbers\bin\Debug\netcoreapp3.1\Swap Two Numbers.dll
+D:\C#\Swap Two Numbers\Swap Two Numbers\bin\Debug\netcoreapp3.1\Swap Two Numbers.pdb
+D:\C#\Swap Two Numbers\Swap Two Numbers\obj\Debug\netcoreapp3.1\Swap Two Numbers.AssemblyInfoInputs.cache
+D:\C#\Swap Two Numbers\Swap Two Numbers\obj\Debug\netcoreapp3.1\Swap Two Numbers.AssemblyInfo.cs
+D:\C#\Swap Two Numbers\Swap Two Numbers\obj\Debug\netcoreapp3.1\Swap Two Numbers.csproj.CoreCompileInputs.cache
+D:\C#\Swap Two Numbers\Swap Two Numbers\obj\Debug\netcoreapp3.1\Swap Two Numbers.dll
+D:\C#\Swap Two Numbers\Swap Two Numbers\obj\Debug\netcoreapp3.1\Swap Two Numbers.pdb
+D:\C#\Swap Two Numbers\Swap Two Numbers\obj\Debug\netcoreapp3.1\Swap Two Numbers.genruntimeconfig.cache
+D:\C#\Swap Two Numbers\Swap Two Numbers\obj\Debug\netcoreapp3.1\Swap Two Numbers.csproj.AssemblyReference.cache
+D:\C#\Swap Two Numbers\Swap Two Numbers\obj\Debug\netcoreapp3.1\Swap Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
